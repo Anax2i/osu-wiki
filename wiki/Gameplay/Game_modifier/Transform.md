@@ -19,7 +19,7 @@ tags:
 - Score Multiplier: 1.00x
 - Caption: `Everything rotates. EVERYTHING.`
 - Compatible game modes: ![][osu!]
-- Incompatible mods: [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth.md), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame.md), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised.md), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel.md), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle.md)
+- Incompatible mods: [Depth (DP)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Depth), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Freeze_Frame), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Repel), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Wiggle)
 
 ## Gameplay
 
