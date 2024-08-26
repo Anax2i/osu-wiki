@@ -22,6 +22,7 @@ tags:
 - Caption: `Everything rotates. EVERYTHING.`
 - Compatible game modes: ![][osu!]
 - Incompatible mods: [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Lazer/Freeze_Frame), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Lazer/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Lazer/Repel), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Lazer/Wiggle)
+- Status: **UNRANKED**
 
 ## Gameplay
 
