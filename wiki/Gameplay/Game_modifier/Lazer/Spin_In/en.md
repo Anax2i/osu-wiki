@@ -24,7 +24,7 @@ tags:
 
 ## Gameplay
 
-![](https://i.ppy.sh/d5ed94ed903d30ef6d747fe382cdd45c9d2becba/68747470733a2f2f692e6962622e636f2f334e546234766e2f7370696e2d696e2e676966)
+![](/wiki/Gameplay/Game_modifier/Lazer/Mods/Gameplay/spin_in.gif)
 
 Comparison between a regular play (right) vs a play with the Spin In mod enabled (left) in osu!
 
