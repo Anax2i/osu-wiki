@@ -13,11 +13,11 @@ tags:
 
 *For other uses, see [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
 
+*For the stable mods, see [Game Modifier (stable)](/wiki/Gameplay/Game_modifier)*
+
 On the lazer selection screen, mods are separated into five categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion` and `Fun`. They can either reduce or increase the Score Multiplier. When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., 1.06x * 1.12x = 1.1872x).
 
 ## List of mods
-
-*See also: [Game Modifier (stable)](/wiki/Gameplay/Game_modifier)*
 
 Each of the mods below listed will have their compatible game modes' icon (![](https://i.ppy.sh/7e7d307810cc1c87d72ef49aa8e00b0a532bf1a1/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6d6f64652f6f73752e706e67) ![](https://i.ppy.sh/76642fc45fefd770b0f7ace30437e64309ae68bf/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6d6f64652f7461696b6f2e706e67) ![](https://i.ppy.sh/fbcd428c2342a50e24972fd5ba4c9bea8082c445/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6d6f64652f63617463682e706e67) ![](https://i.ppy.sh/06fedd0caf3d993b5e1a8a8686118de95722353c/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6d6f64652f6d616e69612e706e67)) next to it.
 
