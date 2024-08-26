@@ -25,7 +25,7 @@ tags:
 
 ## Gameplay
 
-![](https://i.ppy.sh/cfe573c37b52ebc88d5bf32ff76783ea1084b68c/68747470733a2f2f692e6962622e636f2f4c3837474873522f7472616e73666f726d2e676966)
+![](/wiki/Gameplay/Game_modifier/Lazer/Mods/Gameplay/transform.gif)
 
 Comparison between a regular play (right) vs. a play with the Transform mod enabled (left) in osu!
 
