@@ -9,7 +9,7 @@ tags:
   - lazer
 ---
 
-# Spin In (mod)
+# Spin In (lazer mod)
 
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
@@ -20,7 +20,7 @@ tags:
 - Score Multiplier: 1.00x
 - Caption: `Circles spin in. No approach circles.`
 - Compatible game modes: ![][osu!]
-- Incompatible mods: [Hidden (HD)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Hidden), [Grow (GR)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Depth)
+- Incompatible mods: [Hidden (HD)](/wiki/Gameplay/Game_modifier/Lazer/Hidden), [Grow (GR)](/wiki/Gameplay/Game_modifier/Lazer/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Lazer/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Lazer/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Lazer/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth)
 
 ## Gameplay
 
