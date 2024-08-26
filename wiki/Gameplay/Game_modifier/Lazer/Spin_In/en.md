@@ -11,6 +11,8 @@ tags:
 
 # Spin In (lazer mod)
 
+![SI mod icon](/wiki/Gameplay/Game_modifier/Lazer/Mods/SI.png "Spin In (SI) mod icon")
+
 *For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 ## About
