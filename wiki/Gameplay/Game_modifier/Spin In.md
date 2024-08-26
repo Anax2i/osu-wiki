@@ -11,7 +11,7 @@ tags:
 
 # Spin In (lazer mod)
 
-*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
+*For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 ## About
 
