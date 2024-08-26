@@ -20,7 +20,7 @@ tags:
 - Score Multiplier: 1.00x
 - Caption: `Circles spin in. No approach circles.`
 - Compatible game modes: ![][osu!]
-- Incompatible mods: [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow.md), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate.md), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable.md), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different.md), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth.md)
+- Incompatible mods: [Hidden (HD)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Hidden), [Grow (GR)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Depth)
 
 ## Gameplay
 
