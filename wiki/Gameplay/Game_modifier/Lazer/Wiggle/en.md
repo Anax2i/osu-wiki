@@ -23,7 +23,7 @@ tags:
 
 ## Gameplay
 
-![](https://i.ppy.sh/72b0a9ecb14c8c0eb05930c43afaa646d0490b4b/68747470733a2f2f692e6962622e636f2f7a484b686266712f776967676c652e676966)
+![](/wiki/Gameplay/Game_modifier/Lazer/Mods/Gameplay/wiggle.gif)
 
 Comparison between a regular play (right) vs. a play with the Wiggle mod enabled (left) in osu!
 
