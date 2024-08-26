@@ -10,6 +10,8 @@ tags:
 
 # Grow (lazer mod)
 
+![GR mod icon](/wiki/Gameplay/Game_modifier/Lazer/Mods/GR.png "Grow (GR) mod icon")
+
 *For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 ## About
