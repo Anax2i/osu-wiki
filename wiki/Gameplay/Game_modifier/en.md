@@ -28,7 +28,7 @@ On the selection screen, mods are separated into three categories: `Difficulty R
 
 ## List of mods
 
-*See also: [Summary (Game Modifier)](/wiki/Gameplay/Game_modifier/Summary)*
+*See also: [Summary (Game Modifier)](/wiki/Gameplay/Game_modifier/Summary), [Game Modifier (Lazer)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer)*
 
 Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
 
