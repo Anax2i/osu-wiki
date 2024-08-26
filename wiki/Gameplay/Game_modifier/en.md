@@ -16,7 +16,9 @@ tags:
 
 # Game modifier
 
-*For other uses, see [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
+*For other uses, see [Mod (disambiguation)](/wiki/Disambiguation/Mod)*
+
+*For the lazer mods, see [Game Modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 ![Mod selection screen](img/mod-selection-screen.jpg "comparison between the mod selection screens of osu!(top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
 
@@ -28,7 +30,7 @@ On the selection screen, mods are separated into three categories: `Difficulty R
 
 ## List of mods
 
-*See also: [Summary (Game Modifier)](/wiki/Gameplay/Game_modifier/Summary), [Game Modifier (Lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
+*See also: [Summary (Game Modifier)](/wiki/Gameplay/Game_modifier/Summary)*
 
 Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
 
