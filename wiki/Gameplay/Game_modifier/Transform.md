@@ -8,7 +8,7 @@ tags:
   - lazer
 ---
 
-# Transform (mod)
+# Transform (lazer mod)
 
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
