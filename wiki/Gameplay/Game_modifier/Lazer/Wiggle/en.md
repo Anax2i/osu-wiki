@@ -22,6 +22,7 @@ tags:
 - Caption: `They just won't stay still...`
 - Compatible game modes: ![][osu!]
 - Incompatible mods: [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Lazer/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Lazer/Repel), [Transform (TR)](/wiki/Gameplay/Game_modifier/Lazer/Transform)
+- Status: **UNRANKED**
 
 ## Gameplay
 
