@@ -10,6 +10,8 @@ tags:
 
 # Wiggle (lazer mod)
 
+![WG mod icon](/wiki/Gameplay/Game_modifier/Lazer/Mods/WG.png "Wiggle (WG) mod icon")
+
 *For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
 ## About
