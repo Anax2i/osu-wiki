@@ -22,6 +22,7 @@ tags:
 - Caption: `Hit them at the right size!`
 - Compatible game modes: ![][osu!]
 - Incompatible mods: [Spin In (SI)](/wiki/Gameplay/Game_modifier/Lazer/Spin_In), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Lazer/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Lazer/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Lazer/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth)
+- Status: **UNRANKED**
 
 ## Gameplay
 
