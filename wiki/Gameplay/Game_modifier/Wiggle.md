@@ -19,7 +19,7 @@ tags:
 - Score Multiplier: 1.00x
 - Caption: `They just won't stay still...`
 - Compatible game modes: ![][osu!]
-- Incompatible mods: [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth.md), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised.md), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel.md), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform.md)
+- Incompatible mods: [Depth (DP)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Depth), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Repel), [Transform (TR)](/wiki/Gameplay/Game_modifier/Game_modifier_lazer/Transform)
 
 ## Gameplay
 
