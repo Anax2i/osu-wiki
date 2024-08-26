@@ -23,7 +23,7 @@ tags:
 
 ## Gameplay
 
-![](https://i.ppy.sh/cf904af1b85855b2330ea12ba3367fef0381c2c0/68747470733a2f2f692e6962622e636f2f587057563158432f67726f772e676966)
+![](/wiki/Gameplay/Game_modifier/Lazer/Mods/Gameplay/grow.gif)
 
 Comparison between a regular play (right) vs a play with the Grow mod enabled (left) in osu!
 
