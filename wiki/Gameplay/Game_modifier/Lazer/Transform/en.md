@@ -10,7 +10,7 @@ tags:
 
 # Transform (lazer mod)
 
-![TR mod icon](/wiki/Gameplay/Game_modifier/Lazer/Mods/Transform.png "Transform (TR) mod icon")
+![TR mod icon](/wiki/Gameplay/Game_modifier/Lazer/Mods/TR.png "Transform (TR) mod icon")
 
 *For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
