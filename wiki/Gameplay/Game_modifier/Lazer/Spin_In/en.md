@@ -23,6 +23,7 @@ tags:
 - Caption: `Circles spin in. No approach circles.`
 - Compatible game modes: ![][osu!]
 - Incompatible mods: [Hidden (HD)](/wiki/Gameplay/Game_modifier/Lazer/Hidden), [Grow (GR)](/wiki/Gameplay/Game_modifier/Lazer/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Lazer/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Lazer/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Lazer/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth)
+- Status: **UNRANKED**
 
 ## Gameplay
 
