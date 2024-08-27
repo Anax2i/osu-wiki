@@ -28,5 +28,3 @@ tags:
 ## Description
 
 The **Wind Up** mod progressively increases the map speed starting with the default one (1.00x) and ending with the Double Time speed (1.50x).
-
-[osu!]: /wiki/shared/mode/osu.png "osu!"
