@@ -33,4 +33,4 @@ Comparison between a regular play (right) vs a play with the Spin In mod enabled
 
 *Beatmap: [ClariS - Hitorigoto -TV MIX- [Insane]](https://osu.ppy.sh/beatmapsets/596704#osu/1264070)*
 
-[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
