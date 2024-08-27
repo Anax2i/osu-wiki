@@ -20,7 +20,7 @@ tags:
 - Type: Fun
 - Score Multiplier: 1.00x
 - Caption: `They just won't stay still...`
-- Compatible game modes: ![][osu!]
+- Compatible game modes: ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
 - Incompatible mods: [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Lazer/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Lazer/Repel), [Transform (TR)](/wiki/Gameplay/Game_modifier/Lazer/Transform)
 - Status: **UNRANKED**
 
