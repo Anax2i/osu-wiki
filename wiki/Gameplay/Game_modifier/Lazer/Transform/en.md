@@ -32,4 +32,4 @@ Comparison between a regular play (right) vs. a play with the Transform mod enab
 
 *Beatmap: [Fox Stevenson & Curbi - Hoohah (VIP Edit) [Hikan's Insane]](beatmapsets/613961#osu/1295250)*
 
-[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
