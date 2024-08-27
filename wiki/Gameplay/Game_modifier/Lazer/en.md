@@ -23,7 +23,7 @@ Mods are separated into five categories: `Difficulty Reduction`, `Difficulty Inc
 
 Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
 
-### Difficulty reduction
+### Difficulty Reduction
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Lazer/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/Lazer/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -31,7 +31,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Daycore (DC)](/wiki/Gameplay/Game_modifier/Lazer/Daycore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Release (NR)](/wiki/Gameplay/Game_modifier/Lazer/No_Release) ![][osu!mania]
 
-### Difficulty increase
+### Difficulty Increase
 
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Lazer/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Lazer/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
