@@ -31,5 +31,3 @@ tags:
 Comparison between a regular play (right) vs. a play with the Wiggle mod enabled (left) in osu!
 
 *Beatmap: [glaive - astrid [insane]](https://osu.ppy.sh/beatmapsets/1275747#osu/2651414)*
-
-[osu!]: /wiki/shared/mode/osu.png "osu!"
