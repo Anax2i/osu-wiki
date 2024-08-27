@@ -19,81 +19,81 @@ On the lazer selection screen, mods are separated into five categories: `Difficu
 
 ## List of mods
 
-Each of the mods below listed will have their compatible game modes' icon (![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)) next to it.
+Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
 
 ### Difficulty reduction
 
-- [Easy (EZ)](/wiki/Gameplay/Game_modifier/Lazer/Easy) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [No Fail (NF)](/wiki/Gameplay/Game_modifier/Lazer/No_Fail) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Half Time (HT)](/wiki/Gameplay/Game_modifier/Lazer/Half_Time) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Daycore (DC)](/wiki/Gameplay/Game_modifier/Lazer/Daycore) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [No Release (NR)](/wiki/Gameplay/Game_modifier/Lazer/No_Release) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
+- [Easy (EZ)](/wiki/Gameplay/Game_modifier/Lazer/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [No Fail (NF)](/wiki/Gameplay/Game_modifier/Lazer/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Half Time (HT)](/wiki/Gameplay/Game_modifier/Lazer/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Daycore (DC)](/wiki/Gameplay/Game_modifier/Lazer/Daycore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [No Release (NR)](/wiki/Gameplay/Game_modifier/Lazer/No_Release) ![][osu!mania]
 
 ### Difficulty increase
 
-- [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Lazer/Hard_Rock) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Lazer/Sudden_Death) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Perfect (PF)](/wiki/Gameplay/Game_modifier/Lazer/Perfect) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Double Time (DT)](/wiki/Gameplay/Game_modifier/Lazer/Double_Time) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Lazer/Nightcore) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Fade In (FI)](/wiki/Gameplay/Game_modifier/Lazer/Fade_In) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Lazer/Hidden) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Cover (CO)](/wiki/Gameplay/Game_modifier/Lazer/Cover) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Lazer/Flashlight) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Blinds (BL)‎](/wiki/Gameplay/Game_modifier/Lazer/Blinds) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Strict Tracking (ST)‎](/wiki/Gameplay/Game_modifier/Lazer/Strict_Tracking) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Lazer/Accuracy_Challenge) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
+- [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Lazer/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Lazer/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Perfect (PF)](/wiki/Gameplay/Game_modifier/Lazer/Perfect) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Double Time (DT)](/wiki/Gameplay/Game_modifier/Lazer/Double_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Lazer/Nightcore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Fade In (FI)](/wiki/Gameplay/Game_modifier/Lazer/Fade_In) ![][osu!mania]
+- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Lazer/Hidden) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Cover (CO)](/wiki/Gameplay/Game_modifier/Lazer/Cover) ![][osu!mania]
+- [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Lazer/Flashlight) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Blinds (BL)‎](/wiki/Gameplay/Game_modifier/Lazer/Blinds) ![][osu!]
+- [Strict Tracking (ST)‎](/wiki/Gameplay/Game_modifier/Lazer/Strict_Tracking) ![][osu!]
+- [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Lazer/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### Automation
 
-- [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Lazer/Autoplay) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Cinema (CN)](/wiki/Gameplay/Game_modifier/Lazer/Cinema) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Relax (RX)](/wiki/Gameplay/Game_modifier/Lazer/Relax) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png)
-- [Autopilot (AP)‎](/wiki/Gameplay/Game_modifier/Lazer/Autopilot) ‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Lazer/Spun_Out) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
+- [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Lazer/Autoplay) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Cinema (CN)](/wiki/Gameplay/Game_modifier/Lazer/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Relax (RX)](/wiki/Gameplay/Game_modifier/Lazer/Relax) ![][osu!] ![][osu!taiko] ![][osu!catch]
+- [Autopilot (AP)‎](/wiki/Gameplay/Game_modifier/Lazer/Autopilot) ![][osu!]
+- [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Lazer/Spun_Out) ![][osu!]
 
 ### Conversion
 
-- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Lazer/Target_Practice) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Lazer/Difficulty_Adjust) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Classic (CL)](/wiki/Gameplay/Game_modifier/Lazer/Classic) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png)
-- [Random (RD)](/wiki/Gameplay/Game_modifier/Lazer/Random) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Mirror (MR)](/wiki/Gameplay/Game_modifier/Lazer/Mirror) ‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Alternate (AL)](/wiki/Gameplay/Game_modifier/Lazer/Alternate) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Swap (SW)](/wiki/Gameplay/Game_modifier/Lazer/Swap) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png)
-- [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Lazer/Single_Tap) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png)
-- [Invert (IN)](/wiki/Gameplay/Game_modifier/Lazer/Invert) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Constant Speed (CS)](/wiki/Gameplay/Game_modifier/Lazer/Constant_Speed) ‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Lazer/Hold_Off) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K](/wiki/Gameplay/Game_modifier/Lazer/xK) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
+- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Lazer/Target_Practice) ![][osu!]
+- [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Lazer/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Classic (CL)](/wiki/Gameplay/Game_modifier/Lazer/Classic) !![][osu!] ![][osu!taiko]
+- [Random (RD)](/wiki/Gameplay/Game_modifier/Lazer/Random) ![][osu!] ![][osu!taiko] ![][osu!mania]
+- [Mirror (MR)](/wiki/Gameplay/Game_modifier/Lazer/Mirror) ‎![][osu!] ![][osu!catch] ![][osu!mania]
+- [Alternate (AL)](/wiki/Gameplay/Game_modifier/Lazer/Alternate) ![][osu!]
+- [Swap (SW)](/wiki/Gameplay/Game_modifier/Lazer/Swap) ![][osu!taiko]
+- [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Lazer/Single_Tap) ![][osu!] ![][osu!taiko]
+- [Invert (IN)](/wiki/Gameplay/Game_modifier/Lazer/Invert) ![][osu!mania]
+- [Constant Speed (CS)](/wiki/Gameplay/Game_modifier/Lazer/Constant_Speed) ‎![][osu!taiko] ![][osu!mania]
+- [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Lazer/Hold_Off) ![][osu!mania]
+- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K](/wiki/Gameplay/Game_modifier/Lazer/xK) ![][osu!mania]
 
 ### Fun
 
-- [Transform (TR)](/wiki/Gameplay/Game_modifier/Lazer/Transform)‎ ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Wiggle (WG)‎](/wiki/Gameplay/Game_modifier/Lazer/Wiggle) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Spin In (SI)](/wiki/Gameplay/Game_modifier/Lazer/Spin_In) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Grow (GR)](/wiki/Gameplay/Game_modifier/Lazer/Grow)‎ ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Deflate (DF)](/wiki/Gameplay/Game_modifier/Lazer/Deflate)‎ ‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Up)‎ ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Down) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Traceable (TC)‎](/wiki/Gameplay/Game_modifier/Lazer/Traceable) ‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Barrel Roll (BR)](/wiki/Gameplay/Game_modifier/Lazer/Barrel_Roll)![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Lazer/Approach_Different) ‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Floating Fruits (FF)](/wiki/Gameplay/Game_modifier/Lazer/Floating_Fruits)‎ ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png)
-- [Muted (MU)](/wiki/Gameplay/Game_modifier/Lazer/Muted) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [No Scope (NS)](/wiki/Gameplay/Game_modifier/Lazer/No_Scope) ‎‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png)
-- [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Lazer/Magnetised)‎ ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Repel (RP)‎](/wiki/Gameplay/Game_modifier/Lazer/Repel) ‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Lazer/Adaptive_Speed) ‎‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Lazer/Freeze_Frame) ‎![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Lazer/Bubbles) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Lazer/Synesthesia) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
-- [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
+- [Transform (TR)](/wiki/Gameplay/Game_modifier/Lazer/Transform)‎ ![][osu!]
+- [Wiggle (WG)‎](/wiki/Gameplay/Game_modifier/Lazer/Wiggle) ![][osu!]
+- [Spin In (SI)](/wiki/Gameplay/Game_modifier/Lazer/Spin_In) ![][osu!]
+- [Grow (GR)](/wiki/Gameplay/Game_modifier/Lazer/Grow)‎ ![][osu!]
+- [Deflate (DF)](/wiki/Gameplay/Game_modifier/Lazer/Deflate)‎ ‎![][osu!]
+- [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Up)‎ ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Down) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Traceable (TC)‎](/wiki/Gameplay/Game_modifier/Lazer/Traceable) ‎![][osu!]
+- [Barrel Roll (BR)](/wiki/Gameplay/Game_modifier/Lazer/Barrel_Roll) ![][osu!]
+- [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Lazer/Approach_Different) ‎![][osu!]
+- [Floating Fruits (FF)](/wiki/Gameplay/Game_modifier/Lazer/Floating_Fruits)‎ ![][osu!catch]
+- [Muted (MU)](/wiki/Gameplay/Game_modifier/Lazer/Muted) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [No Scope (NS)](/wiki/Gameplay/Game_modifier/Lazer/No_Scope) ‎‎![][osu!] ![][osu!catch]
+- [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Lazer/Magnetised)‎ ![][osu!]
+- [Repel (RP)‎](/wiki/Gameplay/Game_modifier/Lazer/Repel) ![][osu!]
+- [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Lazer/Adaptive_Speed) ‎‎![][osu!] ![][osu!taiko] ![][osu!mania]
+- [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Lazer/Freeze_Frame) ‎‎‎![][osu!]
+- [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Lazer/Bubbles) ‎‎![][osu!]
+- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Lazer/Synesthesia) ‎‎![][osu!]
+- [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth) ‎‎![][osu!]
 
 ### Other
 
-- [No Mod (NM)](/wiki/Gameplay/Game_modifier/Lazer/No_Mod) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png)
-- [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Lazer/Touch_Device) ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
+- [No Mod (NM)](/wiki/Gameplay/Game_modifier/Lazer/No_Mod) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Lazer/Touch_Device) ![][osu!]
 
 #### Personal Presets
 
@@ -102,3 +102,8 @@ The **Personal Presets** are located in a category of its own, allowing you to s
 #### Customise
 
 Similar to the Difficulty Adjust (DA) mod, the pre-configured settings **Customise** guarantees a customizable gaming experience based on the mods you've chosen. Any change in these settings will result in your score being unranked.
+
+[osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
+[osu!taiko]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png "osu!taiko"
+[osu!catch]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!catch.png "osu!catch"
+[osu!mania]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!mania.png "osu!mania"
