@@ -20,7 +20,7 @@ tags:
 - Type: Fun
 - Score Multiplier: 1.00x
 - Caption: `They just won't stay still...`
-- Compatible game modes: ![](/wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png)
+- Compatible game modes: ![][osu!]
 - Incompatible mods: [Depth (DP)](/wiki/Gameplay/Game_modifier/Lazer/Depth), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Lazer/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Lazer/Repel), [Transform (TR)](/wiki/Gameplay/Game_modifier/Lazer/Transform)
 - Status: **UNRANKED**
 
@@ -31,3 +31,5 @@ tags:
 Comparison between a regular play (right) vs. a play with the Wiggle mod enabled (left) in osu!
 
 *Beatmap: [glaive - astrid [insane]](https://osu.ppy.sh/beatmapsets/1275747#osu/2651414)*
+
+[osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
