@@ -17,7 +17,7 @@ tags:
 
 ## About
 
-- Abbreviation: ADI
+- Abbreviation: AD
 - Type: Fun
 - Score Multiplier: 1.00x
 - Caption: `Never trust the approach circles...`
