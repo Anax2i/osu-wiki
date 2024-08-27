@@ -28,5 +28,3 @@ tags:
 ## Description
 
 The **Wind Down** mod progressively decreases the map speed starting with the default one (1.00x) and ending with the Half Time speed (0.75x).
-
-[osu!]: /wiki/shared/mode/osu.png "osu!"
