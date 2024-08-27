@@ -32,4 +32,4 @@ Comparison between a regular play (right) vs a play with the Grow mod enabled (l
 
 *Beatmap: [cYsmix - triangles [Hard]](https://osu.ppy.sh/beatmapsets/1841885#osu/3783211)*
 
-[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
