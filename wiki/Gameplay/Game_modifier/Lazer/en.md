@@ -15,7 +15,7 @@ tags:
 
 *For the stable mods, see [Game Modifier (stable)](/wiki/Gameplay/Game_modifier)*
 
-![Mod selection screen](/wiki/Gameplay/Game_modifier/Lazer/img/Mod_Selection_Screen.png "comparison between the mod selection screens of osu! (top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
+![Mod selection screen](/wiki/Gameplay/Game_modifier/Lazer/img/Mod_Selection_Screen.png "Comparison between the mod selection screens of osu! (top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
 
 Mods are separated into five categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion` and `Fun`. They can either reduce or increase the Score Multiplier. When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., 1.06x * 1.12x = 1.1872x).
 
