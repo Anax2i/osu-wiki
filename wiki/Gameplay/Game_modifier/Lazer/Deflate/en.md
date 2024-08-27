@@ -32,4 +32,4 @@ Comparison between a regular play (right) vs a play with the Deflate mod enabled
 
 *Beatmap: [NAMCO - RUN!RUN!RUN! [Water Board]](https://osu.ppy.sh/beatmapsets/323751#osu/914237)*
 
-[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
