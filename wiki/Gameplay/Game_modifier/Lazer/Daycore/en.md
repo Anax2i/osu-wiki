@@ -21,7 +21,7 @@ tags:
 - Caption: `Whoaaaaa...`
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Incompatible mods: [Half Time (HT)](/wiki/Gameplay/Game_modifier/Lazer/Half_Time), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Lazer/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Lazer/Nightcore), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Lazer/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Down)
-- Status: **UNRANKED**
+- Status: **RANKED**
 
 ## Additional Information
 
