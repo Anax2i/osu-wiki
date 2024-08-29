@@ -14,6 +14,8 @@ tags:
 
 *For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
+*For the lazer wiki, see: [Relax (lazer)](/wiki/Gameplay/Game_modifier/Lazer/Relax)*
+
 ## About
 
 - Abbreviation: RL or RX
