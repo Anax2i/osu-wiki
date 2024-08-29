@@ -13,6 +13,8 @@ tags:
 
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
+*For the lazer wiki, see: [No Fail (lazer)](/wiki/Gameplay/Game_modifier/Lazer/No_Fail)*
+
 ## About
 
 - Abbreviation: NF
