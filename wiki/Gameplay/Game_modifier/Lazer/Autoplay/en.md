@@ -2,7 +2,7 @@
 stub: true
 tags:
   - autoplay
-  - uto
+  - auto
   - AT
   - mod
   - game modifier
