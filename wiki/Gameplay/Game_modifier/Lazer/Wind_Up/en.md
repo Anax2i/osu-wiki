@@ -27,7 +27,7 @@ tags:
 
 ## Additional Information
 
-The **Wind Up** mod progressively increases the map speed starting with the default one (1.00x) and ending with the Double Time speed (1.50x).
+The **Wind Up** mod progressively increases the map speed starting with the default one (1.00x) and ending with the [Double Time](/wiki/Gameplay/Game_modifier/Lazer/Double_Time) speed (1.50x).
 
 [osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
 [osu!taiko]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png "osu!taiko"
