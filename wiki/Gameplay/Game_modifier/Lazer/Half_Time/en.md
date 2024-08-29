@@ -22,6 +22,7 @@ tags:
 - Abbreviation: HT
 - Type: Difficulty Reduction
 - Score Multiplier: 0.30x
+- Default shortcut key: `E`
 - Caption: `Less zoom...`
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Incompatible mods: [Daycore (DC)](/wiki/Gameplay/Game_modifier/Lazer/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Lazer/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Lazer/Nightcore), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Lazer/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Down)
