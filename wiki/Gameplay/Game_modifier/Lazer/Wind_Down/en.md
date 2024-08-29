@@ -27,7 +27,7 @@ tags:
 
 ## Additional Information
 
-The **Wind Down** mod progressively decreases the map speed starting with the default one (1.00x) and ending with the Half Time speed (0.75x).
+The **Wind Down** mod progressively decreases the map speed starting with the default one (1.00x) and ending with the [Half Time](/wiki/Gameplay/Game_modifier/Lazer/Half_Time) speed (0.75x).
 
 [osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
 [osu!taiko]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!taiko.png "osu!taiko"
