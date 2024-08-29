@@ -15,6 +15,8 @@ tags:
 *For the full list of all mods, see: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
 *Not to be confused with [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto).*
 
+*For the lazer wiki, see: [Autopilot (lazer)](/wiki/Gameplay/Game_modifier/Lazer/Autopilot)*
+
 ## About
 
 - Abbreviation: AP
