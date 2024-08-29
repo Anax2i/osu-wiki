@@ -13,6 +13,8 @@ tags:
 
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
+*For the lazer wiki, see: [Half Time (lazer)](/wiki/Gameplay/Game_modifier/Lazer/Half_Time)*
+
 ## About
 
 - Abbreviation: HT
