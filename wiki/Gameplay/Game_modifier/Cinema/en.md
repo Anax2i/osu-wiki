@@ -14,6 +14,8 @@ tags:
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
 *Not to be confused with [Cinematography](https://en.wikipedia.org/wiki/Cinematography).*
 
+*For the lazer wiki, see: [Cinema (lazer)](/wiki/Gameplay/Game_modifier/Lazer/Cinema)*
+
 ## About
 
 - Abbreviation: CM
