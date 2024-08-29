@@ -15,6 +15,8 @@ tags:
 
 *For the full list of all lazer mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier/Lazer)*
 
+*For the stable wiki, see: [Auto (stable)](/wiki/Gameplay/Game_modifier/Auto)*
+
 ## About
 
 - Abbreviation: AT
