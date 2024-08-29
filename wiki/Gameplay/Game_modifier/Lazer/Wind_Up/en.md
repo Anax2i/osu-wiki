@@ -25,7 +25,7 @@ tags:
 - Incompatible mods: [Half Time (HT)](/wiki/Gameplay/Game_modifier/Lazer/Half_Time), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Lazer/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Lazer/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Lazer/Nightcore), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Lazer/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Lazer/Adaptive_Speed)
 - Status: **UNRANKED**
 
-## Description
+## Additional Information
 
 The **Wind Up** mod progressively increases the map speed starting with the default one (1.00x) and ending with the Double Time speed (1.50x).
 
