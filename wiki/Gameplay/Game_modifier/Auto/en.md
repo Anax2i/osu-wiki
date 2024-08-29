@@ -17,6 +17,8 @@ tags:
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
 *Not to be confused with [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 
+*For the lazer wiki, see: [Autoplay (lazer)](/wiki/Gameplay/Game_modifier/Lazer/Autoplay)*
+
 ## About
 
 - Abbreviation: AT or AO
