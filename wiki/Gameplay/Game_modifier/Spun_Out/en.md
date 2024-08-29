@@ -14,6 +14,8 @@ tags:
 
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
+*For the lazer wiki, see: [Spun Out (lazer)](/wiki/Gameplay/Game_modifier/Lazer/Spun_Out)*
+
 ## About
 
 - Abbreviation: SO
