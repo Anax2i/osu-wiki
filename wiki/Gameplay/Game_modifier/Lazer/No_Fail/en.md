@@ -22,6 +22,7 @@ tags:
 - Abbreviation: NF
 - Type: Difficulty Reduction
 - Score Multiplier: 0.50x
+- Default shortcut key: `W`
 - Caption: `You can't fail, no matter what.`
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Incompatible mods: [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Lazer/Accuracy_Challenge), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Lazer/Perfect), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Lazer/Sudden_Death), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Lazer/Cinema)
