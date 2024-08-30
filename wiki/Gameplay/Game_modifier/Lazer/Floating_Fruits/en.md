@@ -18,7 +18,7 @@ tags:
 ## About
 
 - Abbreviation: FF
-- Type: Difficulty Reduction
+- Type: Fun
 - Score Multiplier: 1.00x
 - Caption: `The fruits are... floating?`
 - Compatible game modes: ![][osu!catch]
