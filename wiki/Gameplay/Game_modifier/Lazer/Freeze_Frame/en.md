@@ -31,4 +31,8 @@ Comparison between a regular play (right) vs a play with the Freeze Frame mod en
 
 *Beatmap: [YonKaGor - You're Just Like Pop Music [Normal]](https://osu.ppy.sh/beatmapsets/2179669#osu/4606983)*
 
+## Additional Information
+
+Notes with the **Freeze Frame** mod appear at the same time for each new combo.
+
 [osu!]: /wiki/Gameplay/Game_modifier/Lazer/Logo/osu!.png "osu!"
